@@ -1,4 +1,4 @@
-How to run the Online Fire Reporting System Project using PHP and MySQL
+### How to run the Online Fire Reporting System Project using PHP and MySQL
 1. Download the project zip file
 
 2. Extract the file and copy ofrs folder
